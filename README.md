@@ -1,4 +1,6 @@
-Built ggsol.io
+Built ggsol.io & mcrc.space
+ggsol.io - solana casino game - fully running
+mcrc.space - solana & evm & bank casino game(any payment available) - it's currently UI updating now
 
 <img width="1913" height="906" alt="image" src="https://github.com/user-attachments/assets/7c98e48e-1f29-4d1f-8e06-24acd1ec3d43" />
 
